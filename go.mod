@@ -36,7 +36,6 @@ require (
 	github.com/kr/pretty v0.1.0
 	github.com/leodido/go-urn v1.2.0 // indirect
 	github.com/lib/pq v1.2.0
-	github.com/lucas-clemente/quic-go v0.19.3
 	github.com/mholt/certmagic v0.8.3
 	github.com/micro/cli v0.2.0
 	github.com/micro/mdns v0.3.0
